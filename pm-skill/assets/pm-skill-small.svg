@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" fill="#F4F3EF"/>
+  <rect x="4" y="4" width="120" height="120" fill="none" stroke="#0B1115" stroke-width="3"/>
+  <g font-family="'Arial Black', 'Helvetica Neue', monospace" font-weight="900" text-anchor="middle">
+    <text x="67" y="61" fill="none" stroke="#7D7972" stroke-width="1.4" font-size="42">PM</text>
+    <text x="70" y="64" fill="none" stroke="#7D7972" stroke-width="1.1" opacity="0.65" font-size="42">PM</text>
+    <text x="64" y="58" fill="#77726B" font-size="42">PM</text>
+    <text x="64" y="87" fill="#77726B" font-size="20">SKILL</text>
+  </g>
+  <text x="64" y="106" fill="#77726B" font-family="'SFMono-Regular', 'Menlo', 'Consolas', monospace" font-size="8" letter-spacing="1.5" text-anchor="middle">AI PRODUCT</text>
+</svg>
