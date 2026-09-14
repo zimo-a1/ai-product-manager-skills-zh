@@ -1,0 +1,10 @@
+interface:
+  display_name: "PM Skill"
+  short_description: "PM-first AI product work with Harness and LLM Wiki memory"
+  icon_small: "./assets/pm-skill-small.svg"
+  icon_large: "./assets/pm-skill.svg"
+  brand_color: "#77726B"
+  default_prompt: "Use $pm-skill 用 PM-first 风格设计 AI 产品、Agent Harness 或维护 LLM Wiki。"
+
+policy:
+  allow_implicit_invocation: true
