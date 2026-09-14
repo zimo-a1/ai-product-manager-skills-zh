@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#F4F3EF"/>
+  <rect x="10" y="10" width="492" height="492" fill="none" stroke="#0B1115" stroke-width="5"/>
+  <g font-family="'Arial Black', 'Helvetica Neue', monospace" font-weight="900" font-size="70" text-anchor="middle">
+    <text x="262" y="229" fill="none" stroke="#7D7972" stroke-width="2.4">PM SKILL</text>
+    <text x="267" y="234" fill="none" stroke="#7D7972" stroke-width="2.1" opacity="0.7">PM SKILL</text>
+    <text x="272" y="239" fill="none" stroke="#7D7972" stroke-width="1.8" opacity="0.45">PM SKILL</text>
+    <text x="256" y="223" fill="#77726B">PM SKILL</text>
+  </g>
+  <g stroke="#8C877E" stroke-width="1.2" opacity="0.45">
+    <path d="M122 251H389"/>
+    <path d="M132 259H379"/>
+    <path d="M142 267H369"/>
+  </g>
+  <text x="256" y="301" fill="#77726B" font-family="'SFMono-Regular', 'Menlo', 'Consolas', monospace" font-size="19" letter-spacing="3" text-anchor="middle">AI PRODUCT OPERATING SKILL</text>
+  <g stroke="#77726B" stroke-width="2" opacity="0.55">
+    <path d="M96 176H76V196"/>
+    <path d="M416 176H436V196"/>
+    <path d="M96 336H76V316"/>
+    <path d="M416 336H436V316"/>
+  </g>
+</svg>
