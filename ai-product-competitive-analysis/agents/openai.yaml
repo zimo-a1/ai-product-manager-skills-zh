@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 产品竞品分析"
+  short_description: "AI 产品竞品调研、拆解与机会点分析"
+  default_prompt: "使用 $ai-product-competitive-analysis 调研一个 AI 产品赛道，并输出竞品分析报告、对比矩阵、用户流程图和 PRD 可用机会点。"
+policy:
+  allow_implicit_invocation: true
